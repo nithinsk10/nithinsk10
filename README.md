@@ -46,5 +46,5 @@ development, data structures and problem-solving skills.
 
 ## 🤝 Connect With Me
 
-- LinkedIn: Add your LinkedIn profile here
+- LinkedIn: www.linkedin.com/in/nithin-s-k-5b9b90318
 - GitHub: @nithinsk10
